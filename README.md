@@ -14,8 +14,3 @@ We used Unity as a platform to build the application and AR Core toolkit to rend
 
 We used Unity as a platform to build the application and AR Core toolkit to render the path.
 
-
-## Project Developers
-This is an application built as a final year project by SDMCET students.
-Members of this Project are:-
-Ashish Kalghatkar, Sandeep B. , Sankalp Malagi and Vagesh Naik.
